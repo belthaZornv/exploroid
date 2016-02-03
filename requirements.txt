@@ -1,0 +1,14 @@
+Joystick
+	- get direction
+	- get speed
+
+4 buttons
+	- do an action
+
+slide potentiometer
+	- get max speed
+
+monitor
+	- display charge
+	- display time
+	- display direction
